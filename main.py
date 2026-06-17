@@ -1,0 +1,1 @@
+print("Fake Currency Detection Project")
